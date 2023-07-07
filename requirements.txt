@@ -1,8 +1,5 @@
 scikit-learn
 nltk
-matplotlib
 gensim
-joblib
 nltk
 streamlit
-pickle
